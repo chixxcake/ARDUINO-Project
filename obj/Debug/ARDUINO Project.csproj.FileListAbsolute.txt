@@ -1,0 +1,16 @@
+C:\Users\Ninz\source\repos\ARDUINO Project\bin\Debug\ARDUINO Project.exe.config
+C:\Users\Ninz\source\repos\ARDUINO Project\bin\Debug\ARDUINO Project.exe
+C:\Users\Ninz\source\repos\ARDUINO Project\bin\Debug\ARDUINO Project.pdb
+C:\Users\Ninz\source\repos\ARDUINO Project\obj\Debug\ARDUINO Project.csproj.AssemblyReference.cache
+C:\Users\Ninz\source\repos\ARDUINO Project\obj\Debug\ARDUINO_Project.Form1.resources
+C:\Users\Ninz\source\repos\ARDUINO Project\obj\Debug\ARDUINO_Project.Form2.resources
+C:\Users\Ninz\source\repos\ARDUINO Project\obj\Debug\ARDUINO_Project.Form3.resources
+C:\Users\Ninz\source\repos\ARDUINO Project\obj\Debug\ARDUINO_Project.Properties.Resource1.resources
+C:\Users\Ninz\source\repos\ARDUINO Project\obj\Debug\ARDUINO_Project.Properties.Resources.resources
+C:\Users\Ninz\source\repos\ARDUINO Project\obj\Debug\ARDUINO_Project.Resource1.resources
+C:\Users\Ninz\source\repos\ARDUINO Project\obj\Debug\ARDUINO Project.csproj.GenerateResource.cache
+C:\Users\Ninz\source\repos\ARDUINO Project\obj\Debug\ARDUINO Project.csproj.CoreCompileInputs.cache
+C:\Users\Ninz\source\repos\ARDUINO Project\obj\Debug\ARDUINO Project.exe
+C:\Users\Ninz\source\repos\ARDUINO Project\obj\Debug\ARDUINO Project.pdb
+C:\Users\Ninz\source\repos\ARDUINO Project\obj\Debug\ARDUINO_Project.Form4.resources
+C:\Users\Ninz\source\repos\ARDUINO Project\obj\Debug\ARDUINO_Project.Form5.resources
